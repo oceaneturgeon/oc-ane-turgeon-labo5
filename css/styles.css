@@ -1,0 +1,63 @@
+.header {
+    background-color: black;
+    color: white;
+    padding: auto;
+    font-size: 50px;
+    text-align: center;
+}
+
+.subHeader {
+    background-color: black;
+    color: white;
+    padding: 4px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.paragraphe1-3 {
+    background-color: #A0C0DF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 7px;
+    border: 2px solid #868686;
+    width: 20%;
+    text-align: justify;
+}
+
+.paragraphe2 {
+    border: 2px solid #868686;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 6px;
+    width: 55%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.titreSecondaire {
+    color: #868686;
+    font-family: fantasy;
+    font-size: 30px;
+
+}
+
+.titrePrimaire {
+    font-size: 40px;
+    color: black;
+    font-family: fantasy;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    width: calc();
+    gap: auto;
+}
+
+.photos {
+    width: 100%;
+    background-repeat: no-repeat;
+}
